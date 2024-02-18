@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Website #3",
+			"path": "."
+		},
+		{
+			"name": "sheriyans",
+			"path": "../../../../Desktop/College"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Website #3"
+	}
+}
